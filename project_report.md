@@ -55,6 +55,8 @@ Further improvements could be made by:
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
+![Training Score](project/img/model_test_score.png)
+
 ![alt text](model_train_score.png)
 ![alt text](model_test_score.png)
 ![model_train_score.png](img/model_train_score.png)
