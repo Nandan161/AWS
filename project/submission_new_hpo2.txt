@@ -1,5 +1,11 @@
 fileName                     date                 description                                      status    publicScore  privateScore  
 ---------------------------  -------------------  -----------------------------------------------  --------  -----------  ------------  
+submission_new_hpo2.csv      2025-02-22 07:34:13  new features with hyperparameters combination-2  complete  0.47640      0.47640       
+submission_new_hpo1.csv      2025-02-22 07:33:00  new features with hyperparameters combination-1  complete  0.48588      0.48588       
+submission_new_hpo.csv       2025-02-22 07:24:46  new features with hyperparameters                complete  0.48762      0.48762       
+submission_new_features.csv  2025-02-22 07:18:07  new features                                     complete  0.58693      0.58693       
+submission.csv               2025-02-22 07:07:47  first raw submission                             complete  1.81008      1.81008       
+submission.csv               2025-02-22 06:52:03  first raw submission                             complete  1.82428      1.82428       
 submission_new_hpo3.csv      2025-02-22 05:03:49  new features with hyperparameters combination-3  complete  1.57341      1.57341       
 submission_new_hpo2.csv      2025-02-22 04:44:55  new features with hyperparameters combination-2  complete  0.47108      0.47108       
 submission_new_hpo1.csv      2025-02-22 04:43:44  new features with hyperparameters combination-1  complete  0.48828      0.48828       
